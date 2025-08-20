@@ -1,0 +1,2 @@
+This poster presents my work on building a Hi-C computational pipeline for personal genome assembly. I developed and ran complex graph genome workflows (using tools such as minigraph and VG giraffe) in a Linux HPC environment, automating data processing and visualization. 
+The project involved work in pipeline engineering, algorithmic analysis, system skills, data visualization, and data analysis.
